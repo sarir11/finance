@@ -9,6 +9,7 @@ main:
     weight: 10
   - name: Posts
     url: '#posts'
+    published: false
     weight: 20
   - name: Projects
     url: '#projects'
@@ -16,7 +17,7 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Research
     url: '#featured'
     weight: 50
   - name: Contact
