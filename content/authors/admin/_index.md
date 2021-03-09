@@ -14,11 +14,8 @@ organizations:
   url: https://www.hec.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.\
-\
-\
-\
-\
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 
 # Interests to show in About widget
 interests:
@@ -75,7 +72,7 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-My Job Market paper is now scheduled at the Global Finance Association, Northern Finance Assocation, and Society for Financial Econometrics.
+My Job Market paper is now scheduled at the Global Finance Association,&nbsp.. Northern Finance Assocation, &nbsp.. and Society for Financial Econometrics.
 
 
 
