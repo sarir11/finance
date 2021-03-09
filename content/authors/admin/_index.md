@@ -15,9 +15,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-body {
-    padding-top:15px;
-}
 
 # Interests to show in About widget
 interests:
