@@ -72,7 +72,12 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-My Job Market paper is now scheduled at the Global Finance Association,&nbsp.. Northern Finance Assocation, &nbsp.. and Society for Financial Econometrics.
+My Job Market paper is now scheduled at the Global Finance Association,&nbsp Northern Finance Assocation, &nbsp and Society for Financial Econometrics.
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
 
 
 
