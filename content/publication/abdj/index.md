@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Slope of the SML in high versus low granularity months (1972-2018)'
+#  caption: 'Slope of the SML in high versus low granularity months (1972-2018)'
 #  focal_point: ""
 #  preview_only: false
 
