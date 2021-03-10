@@ -80,8 +80,6 @@ highlight_name: false
 \
 \
 \
-\
-\
 &emsp;
 
 
