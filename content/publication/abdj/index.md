@@ -31,7 +31,7 @@ doi: ""
 publication: Working Paper
 #publication_short: WP
 
-abstract: "I find strong empirical evidence that the correlation between firms bond and equity returns increases significantly when the distribution of firms in the economy becomes more granular than atomistic. Data supports the hypothesis that this arises from granularity being a priced factor in the cross-sections of both equity and bond returns. I construct a theoretical framework in which risk inherent in very large firms grows systematic. This granular channel brings about two predictions validated by the data: First, bond and equity returns co-move in the same direction with respect to granularity shocks. Second, this co-movement is due to a mutually and similarly priced factor in the cross section of equity and bond returns."
+abstract: "This paper revisits the properties of the conditional CAPM when the economy is granular. When some firms are more like ’grains’ than atoms, shocks to such firms are not diversified away. When a large firm becomes larger, the economy becomes more granular, as the large firm represents a greater share of the market. This increase in granularity translates into a higher cross-sectional difference in equity betas, which reduces the slope of the Security Market Line (SML). We provide empirical support for the negative relation between the slope of the SML and various granularity measures from the U.S. equity market. When granularity decreases, portfolio betas are strongly and positively related to average equity returns. In contrast, the relation turns negative when granularity increases, thereby explaining the relatively ’flat’ SML observed unconditionally."
 
 # Summary. An optional shortened abstract.
 summary: "The is sand in the gears!"
