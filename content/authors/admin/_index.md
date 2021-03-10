@@ -11,7 +11,7 @@ role: PhD Candidate in Finance
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: HEC Montréal
-  url: https://www.hec.ca/
+  url: https://www.hec.ca/finance/phd/current-students/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests Asset Pricing, Granulity, and Corporate Bond Market.
@@ -65,10 +65,10 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ali.abolghasemi@hec.ca"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
