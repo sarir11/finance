@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ali.abolghasemi@hec.ca
+  link: mailto:ali.abolghasemi@hec.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AliAbolqasemi
