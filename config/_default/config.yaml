@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'ALI ABOLGHASEMI' # Website name
-baseurl: '' # Website URL
+baseurl: 'www.abolghasemi.me' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
