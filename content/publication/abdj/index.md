@@ -28,8 +28,8 @@ doi: ""
 #publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Wowchemy Conference*
-#publication_short: In *ICW*
+publication: Working Paper
+#publication_short: WP
 
 abstract: "I find strong empirical evidence that the correlation between firms bond and equity returns increases significantly when the distribution of firms in the economy becomes more granular than atomistic. Data supports the hypothesis that this arises from granularity being a priced factor in the cross-sections of both equity and bond returns. I construct a theoretical framework in which risk inherent in very large firms grows systematic. This granular channel brings about two predictions validated by the data: First, bond and equity returns co-move in the same direction with respect to granularity shocks. Second, this co-movement is due to a mutually and similarly priced factor in the cross section of equity and bond returns."
 
