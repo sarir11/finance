@@ -33,7 +33,7 @@ abstract: "I find strong empirical evidence that the correlation between firms b
 # Summary. An optional shortened abstract.
 summary: "The is sand in the gears!"
 
-tags: []
+#tags: []
 
 # Display this page in the Featured widget?
 featured: true
