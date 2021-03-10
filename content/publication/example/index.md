@@ -6,7 +6,7 @@ title: "Granular Gravity: Equity-Bond Returns and Correlation"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Job Market Paper
-description: "Test if it works"
+
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
@@ -22,7 +22,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-#publication_types: ["3"]
+#publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
