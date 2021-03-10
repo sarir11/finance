@@ -58,7 +58,7 @@ social:
   link: https://www.linkedin.com/in/ali-abolqasemi/
 - icon: skype
   icon_pack: fab
-  link: callto:<ali.abolqasemi>?call
+  link: callto:<ali.sarir>?call
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
