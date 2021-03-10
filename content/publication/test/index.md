@@ -1,6 +1,6 @@
 ---
 title: "Granular Gravity: Equity-Bond Returns and Correlation"
-authors:
+authors: Ali Ali
 - " "
 date: "2020-10-01"
 #doi: ""
@@ -24,7 +24,7 @@ abstract: "I find strong empirical evidence that the correlation between firms b
 # Summary. An optional shortened abstract.
 #tags:
 #- Source Themes
-#featured: false
+featured: true
 
 links:
  #icon: ssrn
@@ -33,7 +33,7 @@ links:
   #url: https://ssrn.com/abstract=3440147
 #- name: Interactive Plots
 #  url: https://evan.shinyapps.io/supply_demand_sml/
-url_pdf: files/JMP.pdf
+#url_pdf: files/JMP.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
