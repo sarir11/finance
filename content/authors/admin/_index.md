@@ -69,14 +69,14 @@ email: "ali.abolghasemi@hec.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 \
 \
 \
 \
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Thank you for visiting my website. You can download my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}.
 \
 \
 \
