@@ -7,7 +7,7 @@ title: "Equity Prices in a Granular Economy"
 authors:
 - Ali Abolghasemi
 - Harjoat Bhamra
-- Christian Dorion
+- cd
 - Alexandre Jeanneret
 
 # Author notes (optional)
