@@ -3,7 +3,7 @@
 title: Yuki Pooki
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Animalogy
@@ -55,7 +55,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
