@@ -20,8 +20,9 @@ bio: My research interests Asset Pricing, Granulity, and Corporate Bond Market.
 # Interests to show in About widget
 interests:
 - Asset Pricing
-- Granularity
+- Granular Economies
 - Corporate Bond Market
+- Capital Structure Models
 
 # Education to show in About widget
 education:
