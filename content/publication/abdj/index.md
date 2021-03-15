@@ -28,7 +28,7 @@ doi: ""
 #publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Working Paper
+Status: Working Paper
 #publication_short: WP
 
 abstract: "This paper revisits the properties of the conditional CAPM when the economy is granular. When some firms are more like ’grains’ than atoms, shocks to such firms are not diversified away. When a large firm becomes larger, the economy becomes more granular, as the large firm represents a greater share of the market. This increase in granularity translates into a higher cross-sectional difference in equity betas, which reduces the slope of the Security Market Line (SML). We provide empirical support for the negative relation between the slope of the SML and various granularity measures from the U.S. equity market. When granularity decreases, portfolio betas are strongly and positively related to average equity returns. In contrast, the relation turns negative when granularity increases, thereby explaining the relatively ’flat’ SML observed unconditionally."
