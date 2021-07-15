@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Gelasio"
+
+# Optional Google font URL
+google_fonts = "Gelasio:400,500,700|Serif"
+
+# Font families
+heading_font = "Gelasio"
+body_font = "Gelasio"
+nav_font = "Gelasio"
+mono_font = "Gelasio"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
