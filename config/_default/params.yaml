@@ -7,7 +7,7 @@
 
 theme: hec
 day_night: true
-font: mr_robot
+font: ''
 font_size: L
 
 # SEO
