@@ -7,7 +7,7 @@
 
 theme: hec
 day_night: true
-font: georgia
+font: mr_robot
 font_size: L
 body_classes: "georgia bg-near-white"
 #Libre+Baskerville
