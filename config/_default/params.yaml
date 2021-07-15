@@ -7,9 +7,9 @@
 
 theme: hec
 day_night: true
-font: Libre+Baskerville
+font: ''
 font_size: L
-
+body_classes: "georgia bg-near-white"
 #Libre+Baskerville
 
 # SEO
