@@ -7,8 +7,10 @@
 
 theme: hec
 day_night: true
-font: "Libre+Baskerville"
+font: Libre
 font_size: L
+
+#Libre+Baskerville
 
 # SEO
 
