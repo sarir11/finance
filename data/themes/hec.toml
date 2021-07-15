@@ -16,8 +16,8 @@ menu_text_active = "003C71"
 menu_title = "#2b2b2b"
 
 # Home sections
-home_section_odd = "rgb(220, 220, 220)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "rgb(247, 247, 247)"
+home_section_even = "rgb(225, 225, 225)"
 
 [dark]
   link = "#bbdefb"
