@@ -7,7 +7,7 @@
 
 theme: hec
 day_night: true
-font: Gelasio
+font: "Gelasio"
 font_size: L
 
 # SEO
