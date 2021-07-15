@@ -5,7 +5,9 @@ name = "hec"
 light = true
 
 # Primary
-primary = "#1565c0"
+#primary = "#1565c0"
+primary = "#003C71"
+
 
 # Menu
 menu_primary = "#fff"
