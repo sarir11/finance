@@ -2,7 +2,7 @@
 name = "Gelasio"
 
 # Optional Google font URL
-google_fonts = "Gelasio:400,500,700|Serif"
+google_fonts = "Gelasio:400,500,700"
 
 # Font families
 heading_font = "Gelasio"
