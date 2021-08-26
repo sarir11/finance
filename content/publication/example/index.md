@@ -29,7 +29,7 @@ publication_types: ["0"]
 publication: Job Market Paper
 #publication_short: WP
 
-abstract: "I find strong empirical evidence that the correlation between firms bond and equity returns increases significantly when the distribution of firms in the economy becomes more granular than atomistic. Data supports the hypothesis that this arises from granularity being a priced factor in the cross-sections of both equity and bond returns. I show granularity commands a negative price of risk in the cross-section of corporate bond returns. I also verify that the expected return on a long-short strategy formed on granularity-sorted portfolios is significant and positive regardless of the credit-ratings of bonds."
+abstract: "I provide ample empirical evidence that investors care about innovations to granularity, the heavy tail of firms’ size distribution. I adapt and extend the definition of an existing granularity measure, and show that innovations to granularity are negatively related to the cross-section of corporate bond and equity returns. I also verify that the alpha from a long-short strategy formed on granularity-sorted portfolios is economically significant after controlling for established risk factors in the cross section of corporate bond and equity returns. I further document that the correlation between firms bond and equity returns is 50% higher when the economy becomes more granular than atomistic. Data supports the hypothesis that this arises from granularity being a priced factor in the cross-sections of both equity and corporate bond returns."
 
 # Summary. An optional shortened abstract.
 summary: "There is sand in the gears!"
