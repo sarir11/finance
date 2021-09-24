@@ -29,7 +29,8 @@ publication_types: ["0"]
 publication: Job Market Paper
 #publication_short: WP
 
-abstract: "Investors care about the state of granularity, the heavy tail of firms' size distribution. I adapt and extend an existing granularity measure, and show that changes in granularity are negatively related to the cross-section of corporate bond returns.I verify that the risk-adjusted return on a strategy that provides effective hedge against granularity shocks is economically significant.I further document that the correlation between firms bond and equity returns is 50\% higher when the economy becomes more granular than atomistic. Data supports the hypothesis that this arises from granularity being a priced factor in the cross-sections of both equity and corporate bond returns."
+abstract: "Investors care about the state of granularity, the heavy tail of firms' size distribution. I adapt and extend an existing granularity measure, and show that changes in granularity are negatively related to the cross-section of corporate bond returns. I verify that the risk-adjusted return on a strategy that provides effective hedge against granularity shocks is economically significant.I further document that the correlation between firms bond and equity returns is 50 percent higher when the economy becomes more granular than atomistic. Data supports the hypothesis that this arises from granularity being a priced factor in the cross-sections of both equity and corporate bond returns.
+"
 
 # Summary. An optional shortened abstract.
 summary: "There is sand in the gears!"
