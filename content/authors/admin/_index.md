@@ -81,6 +81,7 @@ highlight_name: true
 \
 \
 Thank you for visiting my website. You can download my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}.
+I am available for interviews at the 2021-22 job market (FMA in Denvenr or via Zoom) 
 \
 \
 \
