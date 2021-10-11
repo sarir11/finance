@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ali.abolghasemi@hec.ca
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/AliAbolqasemi
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/AliAbolqasemi
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.ca/citations?user=ldA7vkQAAAAJ&hl=en&authuser=1
