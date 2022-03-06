@@ -6,7 +6,8 @@ light = true
 
 # Primary
 #primary = "#1565c0"
-primary = "#003C71"
+#primary = "#003C71"
+primary = "#612141"
 
 
 # Menu
