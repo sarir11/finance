@@ -6,7 +6,7 @@
 # Appearance
 
 theme: hec
-day_night: true
+day_night: false
 font: avro 
 font_size: L
 
