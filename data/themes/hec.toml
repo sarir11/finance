@@ -6,15 +6,15 @@ light = true
 
 # Primary
 #primary = "#1565c0"
-#primary = "#003C71"
-primary = "#612141"
+primary = "#003C71"
+#primary = "#612141" SMU's Marron color (primary color)
 
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-#menu_text_active = "003C71"
-menu_text_active = "612141"
+menu_text_active = "003C71"
+#menu_text_active = "612141"
 menu_title = "#2b2b2b"
 
 # Home sections
