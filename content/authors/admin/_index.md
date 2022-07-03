@@ -6,12 +6,12 @@ title: Ali Abolghasemi
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Finance
+role: Assistant Professor in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HEC Montréal
-  url: https://www.hec.ca/finance/phd/current-students/index.html
+- name: Saint Mary's University
+  url: https://www.smu.ca
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests Asset Pricing, Granulity, and Corporate Bond Market.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Finance
     institution: HEC Montréal 
-    year: 2022 (expected)
+    year: 2022
   - course: MA in Economics
     institution: Concordia University
     year: 2015
