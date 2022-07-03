@@ -6,7 +6,7 @@ title: Ali Abolghasemi
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor in Finance
+role: Assistant Professor of Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
