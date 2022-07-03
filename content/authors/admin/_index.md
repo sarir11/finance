@@ -80,7 +80,7 @@ highlight_name: true
 \
 \
 \
-Thank you for visiting my website. I am a PhD candidate in Finance, interested in empirical and theoretical asset pricing. You can download my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}. 
+Thank you for visiting my website. I am an Assistant Professor of Finance at Saint Mary's University (Sobey School of Business). My current research is on empirical and theoretical asset pricing. You can download my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}. 
 \
 \
 &emsp;
