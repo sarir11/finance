@@ -6,8 +6,8 @@ light = true
 
 # Primary
 #primary = "#1565c0"
-primary = "#003C71"
-#primary = "#612141" SMU's Marron color (primary color) SMU's red: ＃gD2235
+#primary = "#003C71" # the original primary color - change to this one is things did not work well with SMU's
+primary = "#612141" #SMU's Marron color (primary color) SMU's red: ＃gD2235
 
 
 # Menu
