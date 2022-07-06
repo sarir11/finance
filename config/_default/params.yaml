@@ -14,19 +14,19 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: 'HEC Montréal, Department of Finance'
-description: 'PhD Candidate in Finance at HEC Montréal'
+org_name: 'Saint Mary's University, Sobey School of Business'
+description: 'Assistant Professor of Finance at Saint Mary's University'
 twitter: '@AliAbolqasemi'
 
 google_analytics: 'UA-190995411-1'
 # Contact (edit or remove options as required)
 
-email: ali.abolghasemi@hec.ca
+email: ali.abolghasemi@smu.ca
 phone: 514-293-2955
 address:
-  street: 3000 Cote Sainte Catherine
-  city: Montréal
-  region: Qc
+  street: 903 Robie St, Halifax, NS B3H 3C2
+  city: Halifax
+  region: NS
 #  postcode: '94305'
   country: Canada
   country_code: Canada
