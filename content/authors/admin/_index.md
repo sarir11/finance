@@ -56,7 +56,7 @@ social:
 #  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ali-shirazi/
+  link: https://www.linkedin.com/in/ali-shirazi-phd/
 #- icon: skype
 #  icon_pack: fab
 #  link: callto:<ali.sarir>?call
