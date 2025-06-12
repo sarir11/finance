@@ -44,10 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ali.abolghasemi@hec.ca
+  link: mailto:ali.shirazi@smu.ca
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AliAbolqasemi
+  link: https://twitter.com/Ali_Shirazi_SSB
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=2PAsD1wAAAAJ
@@ -56,7 +56,7 @@ social:
 #  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ali-abolghasemi/
+  link: https://www.linkedin.com/in/ali-shirazi/
 #- icon: skype
 #  icon_pack: fab
 #  link: callto:<ali.sarir>?call
