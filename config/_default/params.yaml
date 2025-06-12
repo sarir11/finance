@@ -25,7 +25,7 @@ twitter: '@Ali_Shirazi_SSB'
 google_analytics: 'G-Q9ZJH34NM4'
 # Contact (edit or remove options as required)
 
-email: ali.abolghasemi@smu.ca
+email: ali.shirazi@smu.ca
 phone: 514-293-2955
 address:
   street: 903 Robie St, Halifax, NS B3H 3C2
@@ -47,11 +47,7 @@ contact_links:
   #  icon_pack: fab
    # name: DM Me
     #link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:ali.sarir?call'
- # - icon: keybase
+  # - icon: keybase
   #  icon_pack: fab
    # name: Chat on Keybase
    # link: 'https://keybase.io/'
