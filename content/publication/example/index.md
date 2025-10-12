@@ -1,7 +1,7 @@
 ---
-title: "Granular Gravity: Equity-Bond Returns and Correlation"
+title: "Too Big to Diversify: Concentration Risk and the Pricing of Corporate Bonds"
 
-# Authors
+Authors: Alexandre Jeanneret, Ali Shirazi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-01-05"
+date: "2025-10-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ publication_types: ["0"]
 publication: Job Market Paper
 #publication_short: WP
 
-abstract: "Investors care about the state of granularity, the heavy tail of firms' size distribution. I adapt and extend an existing granularity measure, and show that changes in granularity are negatively related to the cross-section of corporate bond returns. I verify that the risk-adjusted return on a strategy that provides effective hedge against granularity shocks is economically significant.I further document that the correlation between firms bond and equity returns is 50 percent higher when the economy becomes more granular than atomistic. Data supports the hypothesis that this arises from granularity being a priced factor in the cross-sections of both equity and corporate bond returns.
+abstract: "This paper shows that concentration risk---the vulnerability arising from the dominance of a few corporate giants---is priced in corporate bonds. We construct a monthly concentration index from the asset share of the largest U.S. firms and estimate bond return sensitivities to its innovations. Rising concentration amplifies the transmission of firm-specific shocks, undermines issuer diversification, and heightens stress in fixed-income markets. Bonds that underperform more when concentration increases are compensated with higher subsequent returns. Our findings identify the distribution of firm size as a novel macro-structural source of priced risk, with important implications for portfolio allocation and financial stability.
 "
 
 # Summary. An optional shortened abstract.
