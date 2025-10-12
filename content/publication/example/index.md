@@ -26,7 +26,7 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Job Market Paper
+publication: Working Paper
 #publication_short: WP
 
 abstract: "This paper shows that concentration risk---the vulnerability arising from the dominance of a few corporate giants---is priced in corporate bonds. We construct a monthly concentration index from the asset share of the largest U.S. firms and estimate bond return sensitivities to its innovations. Rising concentration amplifies the transmission of firm-specific shocks, undermines issuer diversification, and heightens stress in fixed-income markets. Bonds that underperform more when concentration increases are compensated with higher subsequent returns. Our findings identify the distribution of firm size as a novel macro-structural source of priced risk, with important implications for portfolio allocation and financial stability.
