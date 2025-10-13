@@ -1,14 +1,15 @@
 ---
-widget: portfolio
+title: "Work in Progress"
+widget: blank
 headless: true
 active: true
-weight: 25  # controls order on the homepage
-title: "Work in Progress"
-subtitle: ""
-content:
-  filters:
-    folders:
-      - work-in-progress
+weight: 25
+
+# You can adjust design options if you like
 design:
-  columns: '2'
+  columns: '1'
 ---
+
+## Work in Progress
+
+- *Concentration Risk and Equity-Bond Correlation* (with admin)
