@@ -3,7 +3,6 @@ title: "Too Big to Diversify: Concentration Risk and the Pricing of Corporate Bo
 
 authors:
   - Alexandre Jeanneret
-  - Ali Shirazi
   - admin
 
 date: "2025-10-01"
