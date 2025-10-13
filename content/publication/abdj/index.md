@@ -9,7 +9,7 @@ authors:
 - Harjoat Bhamra
 - Christian Dorion
 - Alexandre Jeanneret
-- Ali Shirazi
+- admin
   
 # Author notes (optional)
 #author_notes:
