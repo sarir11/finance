@@ -27,7 +27,7 @@ summary: "Concentration risk—the dominance of large firms—is priced in corpo
 featured: true
 accomplishments: true
 
-url_pdf: ""
+url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545038"
 url_code: ""
 url_dataset: ""
 url_poster: ""
