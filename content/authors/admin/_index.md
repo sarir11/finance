@@ -60,7 +60,7 @@ social:
 #- icon: skype
 #  icon_pack: fab
 #  link: callto:<ali.sarir>?call
-- icon: university
+- icon: book
   icon_pack: fas
   link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3138415"
   
