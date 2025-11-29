@@ -60,6 +60,9 @@ social:
 #- icon: skype
 #  icon_pack: fab
 #  link: callto:<ali.sarir>?call
+-icon: ssrn
+icon_pack: fab
+link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3138415
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
