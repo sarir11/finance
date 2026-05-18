@@ -9,7 +9,7 @@ date: "2025-10-01"
 doi: ""
 
 # Publication type (0 = Uncategorized, 1 = Conference paper, 2 = Journal article, 3 = Working Paper, etc.)
-publication_types: ["3"]
+#publication_types: ["3"]
 
 publication: "Working Paper"
 
