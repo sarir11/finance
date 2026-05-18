@@ -1,5 +1,5 @@
 ---
-title: "Equity Prices in a Granular Economy"
+title: "Asset Pricing in a Concentrated Economy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,7 +32,21 @@ doi: ""
 publication: Working Paper
 #publication_short: WP
 
-abstract: "This paper revisits the properties of the conditional CAPM when the economy is granular. When some firms are more like ’grains’ than atoms, shocks to such firms are not diversified away. When a large firm becomes larger, the economy becomes more granular, as the large firm represents a greater share of the market. This increase in granularity translates into a higher cross-sectional difference in equity betas, which reduces the slope of the Security Market Line (SML). We provide empirical support for the negative relation between the slope of the SML and various granularity measures from the U.S. equity market. When granularity decreases, portfolio betas are strongly and positively related to average equity returns. In contrast, the relation turns negative when granularity increases, thereby explaining the relatively ’flat’ SML observed unconditionally."
+abstract: "Market concentration drives the cross-sectional price of systematic risk. We develop
+a general equilibrium asset pricing model in which the distribution of firm sizes governs
+expected returns. Kimball demand gives larger firms higher markups, so rising concentration
+raises aggregate profits today; creative destruction then weakens as incumbents dominate,
+slowing productivity growth tomorrow. Higher concentration is therefore associated with
+lower expected dividend growth in the model, qualifying it as an observable long-run-risk
+state variable under recursive preferences. We take this mechanism to U.S. equity data
+from 1973 to 2024. Rising concentration coincides with macroeconomic and financial bad-
+state variables. Exposure to concentration risk is priced negatively in the cross-section, and
+the pricing is orthogonal to the Fama–French factors. The slope of the Security Market
+Line flips from positive in falling-concentration months to negative in rising-concentration
+months. The concentration premium is most visible in the Betting-Against-Beta strategy,
+which earns 3.7% per month more when concentration rises than when it falls. These results
+identify the industrial structure of the economy as an observable source of time-varying risk
+prices."
 
 # Summary. An optional shortened abstract.
 summary: "There is sand in the gears!"
