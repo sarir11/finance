@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'ALI SHIRAZI' # Website name
-baseurl: 'www.shirazi.ca' # Website URL
+baseurl: 'https://www.alishirazi.ca/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
