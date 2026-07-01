@@ -14,7 +14,7 @@ organizations:
   url: https://www.smu.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests Asset Pricing, Granulity, and Corporate Bond Market.
+bio: My research interests include Asset Pricing, Granular Economies, and Corporate Bond Markets.
 
 
 # Interests to show in About widget
