@@ -16,4 +16,4 @@ header:
 ---
 ## Work in Progress
 
-- Concentration Risk and Equity-Bond Correlation (admin)
+- *Concentration Risk and Equity-Bond Correlation* (with Alexandre Jeanneret)
