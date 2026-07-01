@@ -29,7 +29,7 @@ doi: ""
 #publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Working Paper
+publication: 'Working Paper. Best Paper Award in Asset Pricing, 2025 SAIF Annual Research Conference'
 #publication_short: WP
 
 abstract: "Market concentration drives the cross-sectional price of systematic risk. We develop
@@ -49,7 +49,7 @@ identify the industrial structure of the economy as an observable source of time
 prices."
 
 # Summary. An optional shortened abstract.
-summary: "There is sand in the gears!"
+summary: "Market concentration is priced in the cross-section of U.S. equity returns and explains the flattening of the Security Market Line."
 
 tags: []
 
