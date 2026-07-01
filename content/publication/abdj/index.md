@@ -105,3 +105,6 @@ image:
 
 ---
 
+
+
+**Best Paper Award in Asset Pricing — 2025 SAIF Annual Research Conference**
