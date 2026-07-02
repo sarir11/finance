@@ -29,7 +29,7 @@ doi: ""
 #publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'Working Paper. Best Paper Award in Asset Pricing, 2025 SAIF Annual Research Conference'
+publication: 'Working Paper. Best Paper Award in Asset Pricing, 2026 SAIF Annual Research Conference'
 #publication_short: WP
 
 abstract: "Market concentration drives the cross-sectional price of systematic risk. We develop
@@ -107,4 +107,4 @@ image:
 
 
 
-**Best Paper Award in Asset Pricing — 2025 SAIF Annual Research Conference**
+**Best Paper Award in Asset Pricing — 2026 SAIF Annual Research Conference**
