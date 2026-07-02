@@ -16,4 +16,4 @@ header:
 ---
 ## Work in Progress
 
-- *Concentration Risk and Equity-Bond Correlation*
+{{< icon name="file-alt" pack="far" >}} *Concentration Risk and Equity-Bond Correlation* (2026)
