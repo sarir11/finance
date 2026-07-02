@@ -9,4 +9,4 @@ design:
   columns: '2'
 ---
 
-- *Concentration Risk and Equity-Bond Correlation* (with Alexandre Jeanneret)  
+- *Concentration Risk and Equity-Bond Correlation*
