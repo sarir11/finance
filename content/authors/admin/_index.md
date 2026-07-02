@@ -20,9 +20,8 @@ bio: My research interests include Asset Pricing, Granular Economies, and Corpor
 # Interests to show in About widget
 interests:
 - Asset Pricing
-- Granular Economies
-- Corporate Bond Market
-
+- Concentration Risk
+- Equity and Corporate Bond Markets
 
 # Education to show in About widget
 education:
@@ -83,7 +82,7 @@ highlight_name: true
 \
 \
 \
-Thank you for visiting my website. I am an Assistant Professor of Finance at Saint Mary's University (Sobey School of Business). My current research is on empirical and theoretical asset pricing in granular economies. You can download my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}. 
+I am an Assistant Professor of Finance at the Sobey School of Business, Saint Mary's University. My research examines how market concentration — the growing dominance of a small number of very large firms — shapes asset prices. In recent work, my co-authors and I show that concentration risk is priced in both U.S. equities and corporate bonds, with implications for diversification, portfolio allocation, and financial stability. You can download my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}.
 \
 \
 &emsp;
