@@ -14,13 +14,13 @@ doi: ""
 publication: "Working Paper"
 
 abstract: >
-  This paper shows that concentration risk—the vulnerability arising from the dominance of a few corporate giants—
-  is priced in corporate bonds. We construct a monthly concentration index from the asset share of the largest U.S. firms
-  and estimate bond return sensitivities to its innovations. Rising concentration amplifies the transmission of firm-specific
-  shocks, undermines issuer diversification, and heightens stress in fixed-income markets. Bonds that underperform more
-  when concentration increases are compensated with higher subsequent returns. Our findings identify the distribution of
-  firm size as a novel macro-structural source of priced risk, with important implications for portfolio allocation and financial
-  stability.
+We show that concentration risk is priced in corporate bonds. When a few firms dominate the
+economy, their idiosyncratic shocks no longer diversify away and default risk becomes more correlated
+acrossissuers. Thiscorrelationiscostlyforbondholders, whoseconcavepayoﬀsoﬀernooﬀsettingupside.
+A one-standard-deviation rise in concentration beta lowers expected excess returns by 2.53% per year
+after standard controls, and a long-short strategy earns about 10% annually. The premium is strongest
+among non-investment-grade and short-maturity bonds, consistent with default and rollover risk. For the
+same firms, it is larger and more robust in bonds than in equities.
 
 summary: "Concentration risk—the dominance of large firms—is priced in corporate bonds."
 
