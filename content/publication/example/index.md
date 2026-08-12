@@ -14,13 +14,13 @@ doi: ""
 publication: "Working Paper"
 
 abstract: >
-We show that concentration risk is priced in corporate bonds. When a few firms dominate the
+"We show that concentration risk is priced in corporate bonds. When a few firms dominate the
 economy, their idiosyncratic shocks no longer diversify away and default risk becomes more correlated
 acrossissuers. Thiscorrelationiscostlyforbondholders, whoseconcavepayoﬀsoﬀernooﬀsettingupside.
 A one-standard-deviation rise in concentration beta lowers expected excess returns by 2.53% per year
 after standard controls, and a long-short strategy earns about 10% annually. The premium is strongest
 among non-investment-grade and short-maturity bonds, consistent with default and rollover risk. For the
-same firms, it is larger and more robust in bonds than in equities.
+same firms, it is larger and more robust in bonds than in equities."
 
 summary: "Concentration risk—the dominance of large firms—is priced in corporate bonds."
 
